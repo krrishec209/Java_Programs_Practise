@@ -11,3 +11,7 @@ https://github.com/eazybytes/Java-New-features
 
 https://github.com/kdn251/interviews
 
+
+https://levelup.gitconnected.com/tricky-java-interview-questions-cfc546fd03ab
+
+
