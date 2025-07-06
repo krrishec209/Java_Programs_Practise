@@ -1,0 +1,57 @@
+
+Java Interview programming challenge:
+
+I have asked the below programs during my Interview evaluation, Few of them got it right and few of them didnt answer. Let's see who gets it right 👍 
+
+🔹 Challenge 1: 
+ArrayList<String> list = new ArrayList<>();
+list.add("One");
+list.add("Two");
+list.add("Three");
+
+for (String s : list) {
+ if (s.equals("Two")) {
+ list.remove(s);
+ }
+}
+System.out.println(list);
+
+What's the output of Challenge 1?
+
+Challenge 2:
+
+public class SundayTwist {
+ public static void main(String[] args) {
+ int x = 5;
+ for (int x = 0; x < 3; x++) {
+ System.out.println("x: " + x);
+ }
+ }
+}
+
+What's the output of Challenge 2?
+
+
+Challenge 3:
+
+public class OverloadNull {
+ public static void main(String[] args) {
+ print(null);
+ }
+
+ public static void print(String s) {
+ System.out.println("String");
+ }
+
+ public static void print(Object o) {
+ System.out.println("Object");
+ }
+}
+Options:
+a) String
+b) Object
+c) Compile-time error
+d) Run time error
+
+https://www.linkedin.com/feed/update/urn:li:activity:7347529174024187904?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
+
